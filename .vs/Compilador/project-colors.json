@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2903c2b8-49fb-4be9-a2f1-3dd1b0790428": {
+      "ProjectGuid": "2903c2b8-49fb-4be9-a2f1-3dd1b0790428",
+      "DisplayName": "Compilador",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
